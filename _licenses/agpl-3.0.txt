@@ -1,57 +1,57 @@
 ---
-title: GNU Affero General Public License v3.0
-spdx-id: AGPL-3.0
-nickname: GNU AGPLv3
-redirect_from: /licenses/agpl/
-hidden: false
+标题: GNU Affero 一般公共许可证v3.0
+SDX-ID:AGPL-3.0
+加努阿格普尔夫3
+重定向_从:/许可证/agpl/
+隐藏:虚假
 
-description: Permissions of this strongest copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights. When a modified version is used to provide a service over a network, the complete source code of the modified version must be made available.
+说明:此最强的Coplef左派许可证的发放取决于在同一许可证下提供许可证工作和修改的完整源代码,其中包括使用许可证工作的大工程。 必须保存版权和许可证通知。 捐赠者提供专利权的明示授予。 当使用修改版本通过网络提供服务时,必须提供修改版本的完整源代码。
 
-how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file.
+如何:在源代码的根中创建一个文本文件(通常称为 LICENSE 或 LICENSE.txt ),并将许可证的文本复制到文件中。
 
-note: The Free Software Foundation recommends taking the additional step of adding a boilerplate notice to the top of each file. The boilerplate can be found at the end of the license.
+注:自由软件基金会建议采取额外的步骤,在每个文件的顶部添加一个样板通知。 样板可以在许可证末尾找到。
 
-using:
+使用:
 
-permissions:
-  - commercial-use
-  - modifications
-  - distribution
-  - patent-use
-  - private-use
+许可:
+      - 商业用途      
+ - 修改 
+ - 分配 
+     - 专利使用     
+    - 私人用途    
 
-conditions:
-  - include-copyright
-  - document-changes
-  - disclose-source
-  - network-use-disclose
-  - same-license
+条件:
+    - 包括版权    
+    - 文件变更    
+    - 披露来源    
+    - 网络使用披露    
+   - 同许可证   
 
-limitations:
-  - liability
-  - warranty
+限制:
+ - 负债 
+ - 保修 
 
 ---
 
-GNU AFFERO GENERAL PUBLIC LICENSE
+GNU AFFERO 一般公共许可证
 
-Version 3, 19 November 2007
+2007年11月19日第三版
 
-Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+版权公司
 
-Everyone is permitted to copy and distribute verbatim copies of this license
-document, but changing it is not allowed.
+允许每个人复制和分发本许可证的逐字副本
+文件,但不允许更改。
 
-Preamble
+序言
 
-The GNU Affero General Public License is a free, copyleft license for software
-and other kinds of works, specifically designed to ensure cooperation with
-the community in the case of network server software.
+GNU Affero General Public Licence 是一个免费的、可复制的软件许可证
+以及专门为确保与
+以网络服务器软件为例的社区。
 
-The licenses for most software and other practical works are designed to take
-away your freedom to share and change the works. By contrast, our General
-Public Licenses are intended to guarantee your freedom to share and change
-all versions of a program--to make sure it remains free software for all its
+大多数软件和其他实际作品的许可证是用来
+剥夺你分享和改变作品的自由。 相比之下,我们的将军
+公共许可证旨在保障你分享和改变的自由
+程序的所有版本确保它仍然是所有程序的免费软件
 users.
 
 When we speak of free software, we are referring to freedom, not price. Our
